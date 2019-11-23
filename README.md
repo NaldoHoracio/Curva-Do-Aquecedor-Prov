@@ -1,1 +1,3 @@
-# Curva-Do-Aquecedor-Prov
+# Curva Do Aquecedor Provisório
+
+### Regressão linear usando python
